@@ -1,0 +1,19 @@
+Исходные данные: https://www.kaggle.com/datasets/gsagar12/dspp1?select=product_info.csv
+
+Customer Subscription Data
+Customer purchase and call center volume data for a subscription based product
+
+About Dataset
+This data is about a subscription-based digital product offering for financial advisory that includes newsletters, webinars, and investment recommendations. The offering has a couple of varieties, annual subscription, and digital subscription. The product also provides daytime support for customers to reach out to a care team that can help them with any product-related questions and signup/cancellation-related queries.
+
+The data set contains the following information
+
+customer sign-up and cancellation dates at the product level
+call center activity
+customer demographics
+product pricing info
+Few of business questions to answer
+
+Forecast 2022 year revenue if the company expects to add the same number of new customers as the previous year
+
+In 2022, one of the company's key initiatives is to improve the customer experience, one of the capabilities is superior customer care service, and they are thinking about enhancing in-product support better but that takes beyond 2022 to happen. It is very important to forecast call center case volume accurately so that they can make appropriate staffing decisions. Need to predict daily call volumes and make recommendations on how to staff on an hourly basis.
